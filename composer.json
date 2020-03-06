@@ -33,7 +33,7 @@
     "fguillot/json-rpc": "v0.0.1",
     "rych/hash_pbkdf2-compat": "v1.0.0",
     "lastguest/murmurhash": "v1.0",
-    "rgooding/protobuf-php": "v0.0.1",
+    "drslump/Protobuf-PHP": "v0.0.1",
     "react/react": "v0.4.0",
     "react/socket-client": "^0.4.0",
     "bitwasp/buffertools": "v0.1.5",
